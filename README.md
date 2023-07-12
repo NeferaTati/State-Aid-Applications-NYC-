@@ -65,6 +65,8 @@ After completing our `cda.ipynb`, you will create a presentation that describes:
 * final findings
 * next actions
 
+In a "powerpoint" format.
+
 ## README
 
 This README is a temporary file to describe our next actions. After completing this project, you will replace your `README.md` file with the following template:
